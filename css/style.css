@@ -26,7 +26,6 @@ body {background-color: lightgray;
 #Container {background-color: aliceblue;
             width:60%; 
             margin: 0 auto;
-            margin-bottom: -8%;
             border-style: solid;
             border-radius: 15px;
             border-color: transparent;
@@ -84,4 +83,5 @@ body {background-color: lightgray;
 .Project-description {margin-top: -1%;
               margin-bottom: 2%;
               text-align: justify;}
+
 
