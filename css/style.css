@@ -110,6 +110,14 @@ body {background-color: lightgray;
               margin-bottom: 2%;
               text-align: justify;}
 
+a:link {text-decoration: none; 
+        color: #007AAE}
+a:visited {text-decoration: none; 
+        color: #7B008E;}
+a:hover {text-decoration: none; 
+        color: #C94300;}
+a:active {text-decoration: none; 
+        color:#580101}
 
 
 
