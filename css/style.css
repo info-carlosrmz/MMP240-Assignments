@@ -37,7 +37,7 @@ ul {font-family: "Oswald", sans-serif;
 
 
 .contact-info {display: flex;
-               gap: 60px;
+               gap: 80px;
                justify-content: center;
                flex-wrap: nowrap;}
 
@@ -118,6 +118,7 @@ a:hover {text-decoration: none;
         color: #C94300;}
 a:active {text-decoration: none; 
         color:#580101}
+
 
 
 
